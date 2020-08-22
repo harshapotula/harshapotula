@@ -7,7 +7,7 @@
 
 ---
 
-[![Repos Badge](https://badges.pufler.dev/repos/harshapotula)](https://badges.pufler.dev)]
+[![Repos Badge](https://badges.pufler.dev/repos/harshapotula)](https://badges.pufler.dev)
 <a href="https://github.com/harshapotula"><img src="https://img.shields.io/github/followers/harshapotula.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 ---
